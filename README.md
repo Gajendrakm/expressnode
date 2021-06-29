@@ -40,3 +40,8 @@ Node Express
 ##or npm i nodemon -D
 
 ##to update npm Run npm install -g npm
+
+##upcoming topics @2.25
+--EVENT LOOP, ASYNC PATTERNS,EVENTS EMITTER AND STREAMS
+--MAIN CONCEPTS
+--PRE-BUILT CODEGIT STATUS
