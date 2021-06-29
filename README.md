@@ -33,3 +33,10 @@ Node Express
 ##manual approach(create package,json in the root,create properties etc)
 ##npm init (step by step,press enter to skip)
 ##npm init - y(everything default)
+
+##nodeman is a dev dependency not simplw dependency
+
+##npm i nodemon --save-dev
+##or npm i nodemon -D
+
+##to update npm Run npm install -g npm
