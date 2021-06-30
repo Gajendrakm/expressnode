@@ -45,3 +45,6 @@ Node Express
 --EVENT LOOP, ASYNC PATTERNS,EVENTS EMITTER AND STREAMS
 --MAIN CONCEPTS
 --PRE-BUILT CODEGIT STATUS
+
+
+##javascript is synchronous and single threaded
