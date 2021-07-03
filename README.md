@@ -53,3 +53,6 @@ Node Express
 --event - driven programming
 --used heavily in node.js
 --event is big part of nodejs,nodejs internally use events
+
+--emit and on
+--once emit is called after on,another emit after on is not called because emit is already called
