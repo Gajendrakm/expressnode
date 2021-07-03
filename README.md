@@ -48,3 +48,8 @@ Node Express
 
 
 ##javascript is synchronous and single threaded
+
+##EVENTS
+--event - driven programming
+--used heavily in node.js
+--event is big part of nodejs,nodejs internally use events
