@@ -56,3 +56,10 @@ Node Express
 
 --emit and on
 --once emit is called after on,another emit after on is not called because emit is already called
+
+
+##STREAMS
+--writable
+--readable
+--duplex
+--Transform
