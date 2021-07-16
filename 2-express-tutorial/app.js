@@ -3,6 +3,9 @@
 const express = require('express')
 const app = express()
 
+//setup static and middleware
+app.use(express.static('./public'))
+
 app.get('/',(req,res)=>{
     console.log('user hit the resource')
     res.status(200).send('About Page')
