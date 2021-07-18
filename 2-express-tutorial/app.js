@@ -4,6 +4,8 @@ const express = require('express')
 const app = express()
 
 //setup static and middleware
+//static asset are the files that server does not have to do 
+//any changes
 app.use(express.static('./public'))
 
 app.get('/',(req,res)=>{
