@@ -1,5 +1,12 @@
 ##node tutorials from freecodecamp
 
+
+##CommonJS
+--Node uses CJS
+--CommonJs is a module formatting system
+--It is a structuring and organizing javascript code.
+--CJS assists in the server-side development of apps and its format
+--has heavily influenced NodeJS's module management
 Node Express
 
 ##built-in modules
